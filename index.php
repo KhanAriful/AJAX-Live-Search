@@ -28,7 +28,7 @@
         <div class="col-md-4 offset-md-4">
           <div class="form-group">
             <input type="text" class="form-control" id="keyword" aria-describedby="emailHelp" placeholder="Search">
-            <div class="shadow rounded pt-2 pl-2" id="results"></div>
+            <div class="shadow rounded pt-3 pl-3" id="results"></div>
           </div>
         </div>
       </row>
